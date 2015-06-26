@@ -1,0 +1,33 @@
+body {background:#444958;
+    link=#402F2F
+    vlink=#D9D7D8
+    alink=#686051
+}
+h1{color:#808080;
+font-family:"Copperplate Gothic Light", sans-serif;
+    font-size: 48 px;
+    font-weight:normal;
+    text-transform:uppercase;
+    text-align:center
+}
+h2{color:#808080;
+    font-family:"Lucida Sans Unicode", monospace;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 12px;
+    text-transform:lowercase;
+    text-align:center
+}
+p1{color:#808080;
+    font-family:"Century Gothic", monospace;
+    font-weight: normal;
+}
+ul{color:#808080;
+    font-family:"Century Gothic", monospace;
+    text-align:left;
+    text-transform:uppercase;
+    text-decoration:underline
+}
+a{color:#402F2F;
+  text-align:left
+}
