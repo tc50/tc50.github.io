@@ -4,7 +4,7 @@ body {background:#444958;
     alink=#686051
 }
 h1{color:#808080;
-font-family:"Copperplate Gothic Light", sans-serif;
+    font-family: 'Calligraffitti', cursive;
     font-size: 48 px;
     font-weight:normal;
     text-transform:uppercase;
@@ -18,7 +18,7 @@ h2{color:#808080;
     text-transform:lowercase;
     text-align:center
 }
-p1{color:#808080;
+section{color:#808080;
     font-family:"Century Gothic", monospace;
     font-weight: normal;
 }
