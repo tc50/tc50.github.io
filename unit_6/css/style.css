@@ -17,6 +17,12 @@ nav {background:#8C86AA;
 	text-align: center;
 }
 
+img {
+	display: block;
+	margin: 0 auto;
+	width: 120px;
+}
+
 #photos1 {
     float: left;
     width: 20%;
@@ -33,11 +39,6 @@ nav {background:#8C86AA;
     float: right;
     width: 20%;
     margin: 2%;
-}
-
-
-#photos1 {
-    float: left;
 }
 
 footer {
