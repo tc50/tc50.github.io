@@ -17,6 +17,8 @@ nav {background:#8C86AA;
 	text-align: center;
 }
 
-#photos {
-	float: left;
+footer {
+  text-align: center;
+  font-size: 24px;
+  <a href="#">Contact</a>
 }
