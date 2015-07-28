@@ -17,6 +17,23 @@ nav {background:#8C86AA;
 	text-align: center;
 }
 
+#photos1 {
+    float: left;
+}
+
+#photos1 {
+    float: none;
+}
+
+#photos3 {
+    float: right;
+}
+
+
+#photos1 {
+    float: left;
+}
+
 footer {
   text-align: center;
   font-size: 24px;
