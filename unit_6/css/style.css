@@ -14,4 +14,9 @@ nav {background:#8C86AA;
 	vlink=#463E8E;
 	alink=#FFFFFF;
 	font-size: 36px;
+	text-align: center;
+}
+
+#photos {
+	float: left;
 }
