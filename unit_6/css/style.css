@@ -25,20 +25,20 @@ img {
 
 #photos1 {
     float: left;
-    width: 20%;
-    margin: 2%;
+    width: 33.33%;
+    padding: 2%;
 }
 
 #photos1 {
     float: none;
-    width: 20%;
-    margin: 2%;
+    width: 33.33%;
+    padding: 2%;
 }
 
 #photos3 {
     float: right;
-    width: 20%;
-    margin: 2%;
+    width: 33.33%;
+    padding: 2%;
 }
 
 footer {
