@@ -10,9 +10,9 @@ h1{color:#3F3C4C;
 }
 
 nav {background:#8C86AA;
-	link=#61559B;
-	vlink=#463E8E;
-	alink=#FFFFFF;
+	a:link=#61559B;
+	a:visited=#463E8E;
+	a:hover=#FFFFFF;
 	font-size: 36px;
 	text-align: center;
 }
