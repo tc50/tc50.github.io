@@ -19,14 +19,20 @@ nav {background:#8C86AA;
 
 #photos1 {
     float: left;
+    width: 32%;
+    margin: 2%;
 }
 
 #photos1 {
     float: none;
+    width: 32%;
+    margin: 2%;
 }
 
 #photos3 {
     float: right;
+    width: 32%;
+    margin: 2%;
 }
 
 
