@@ -12,6 +12,11 @@ h1{
 	text-align: center
 }
 
+h2{
+	color:#3F3C4C;
+	font-family: 'Advent Pro', sans-serif;
+}
+
 nav {
 	background:#8C86AA;
 	font-size: 36px;
@@ -37,7 +42,7 @@ img {
 }
 
 #photos {
-    float: right;
+    float: left;
     width: 33.333%;
     padding: 2%;
 }
