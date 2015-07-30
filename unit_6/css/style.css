@@ -41,7 +41,7 @@ section {
 }
 
 #photos {
-    float: left;
+    float: right;
     width: 33.333%;
     padding: 2%;
 }
