@@ -1,7 +1,10 @@
-body {background:#8C86AA;
+body {
+	background:#8C86AA;
+	box-sizing: border-box;
 }
 
-h1{color:#3F3C4C;
+h1{
+	color:#3F3C4C;
 	font-family: 'Advent Pro', sans-serif;
 	font-size: 64px;
 	font-weight: normal;
@@ -9,12 +12,22 @@ h1{color:#3F3C4C;
 	text-align: center
 }
 
-nav {background:#8C86AA;
-	a:link=#61559B;
-	a:visited=#463E8E;
-	a:hover=#FFFFFF;
+nav {
+	background:#8C86AA;
 	font-size: 36px;
 	text-align: center;
+}
+
+nav a {
+	color: #61559B;
+}
+
+nav a:visited {
+	color: #463E8E;
+}
+
+nav a:hover {
+	color: #FFF;
 }
 
 img {
@@ -27,21 +40,9 @@ section {
 	column-count: 3;
 }
 
-#photos1 {
+#photos {
     float: left;
-    width: 33.33%;
-    padding: 2%;
-}
-
-#photos1 {
-    float: none;
-    width: 33.33%;
-    padding: 2%;
-}
-
-#photos3 {
-    float: right;
-    width: 33.33%;
+    width: 33.333%;
     padding: 2%;
 }
 
