@@ -41,10 +41,11 @@ img {
 	width: 320px;
 }
 
-#photos {
+.photos {
     float: left;
     width: 33.333%;
     padding: 2%;
+    box-sizing; border-box;
 }
 
 footer {
