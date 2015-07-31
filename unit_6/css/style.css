@@ -46,16 +46,17 @@ img {
     float: left;
     width: 33.333%;
     padding: 2%;
-    box-sizing:
-    border-box;
+    box-sizing: border-box;
 }
 
 .brunch {
 	float: left;
+	margin: 20px;
 }
 
 .photobooth {
 	float: right;
+	margin: 20px;
 }
 
 footer {
