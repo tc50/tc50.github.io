@@ -50,6 +50,14 @@ img {
     border-box;
 }
 
+.brunch {
+	float: left;
+}
+
+.photobooth {
+	float: right;
+}
+
 footer {
   	text-align: center;
   	font-size: 24px;
