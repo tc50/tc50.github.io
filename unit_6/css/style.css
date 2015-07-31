@@ -42,10 +42,12 @@ img {
 }
 
 .photos {
+	text-align: center;
     float: left;
     width: 33.333%;
     padding: 2%;
-    box-sizing: border-box;
+    box-sizing:
+    border-box;
 }
 
 footer {
